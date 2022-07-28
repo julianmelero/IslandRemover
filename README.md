@@ -1,4 +1,4 @@
-Given some matrix of M x N dimmensions filled with 1 or 0:
+Given some matrix of M x N dimensions filled with 1 or 0:
 
 Complete the file islands.py with the function removeIslands that should return a matrix without islands.
 
