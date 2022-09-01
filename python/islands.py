@@ -96,5 +96,5 @@ def remove_islands(matrix: List[List[int]]) -> List[List[int]]:
     for n_fila,fila in enumerate(matrix):
         for n_columna,elemento in enumerate(fila):             
             is_connected(n_fila,n_columna,matrix)
-    print(matrix)
+    
     return matrix
